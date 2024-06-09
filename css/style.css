@@ -1,6 +1,6 @@
 body{
     background-color: yellow;
-    color: black
+    color: black;
 }
 .container{
     display: flex;
